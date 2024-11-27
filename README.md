@@ -69,12 +69,11 @@ The project analyzes Istanbul's local election results to identify polling units
    - The final report, including analysis and discussion, is available as a PDF in the `reports/` directory.
 
 ---
-Future Work
-Expand analysis to include socioeconomic data for more detailed insights.
-Include additional election years for trend analysis.
-Develop a predictive model for upcoming elections using machine learning.
-References
-Esen, B., & Gumuscu, S. (2019). Killing Competitive Authoritarianism Softly: The 2019 Local Elections in Turkey. South European Society and Politics, 24(3), 317–342. DOI
+## **Future Work**
+  - Expand analysis to include socioeconomic data for more detailed insights.
+  - Develop a predictive model for upcoming elections using machine learning.
+## **References**
+  - Esen, B., & Gumuscu, S. (2019). Killing Competitive Authoritarianism Softly: The 2019      - Local Elections in Turkey. South European Society and Politics, 24(3), 317–342. DOI
 Supreme Election Council (YSK): Election Results
 
 
